@@ -4,7 +4,7 @@
     <title>Document</title>
 <style>
 body{
-    background-color: #f3f3f3;
+    background-color: #d3d3d3;
 }
 .container{
     background-color: white;
